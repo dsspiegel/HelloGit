@@ -1,0 +1,5 @@
+if((favChar == ""){
+	    print "You have chosen my favorite character too!";
+}else{
+	print "is better";
+}
