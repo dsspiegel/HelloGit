@@ -3,3 +3,5 @@ if((favChar == "Peter"){
 }else{
 	print "Homer is better";
 }
+
+// Code for great new feature goes here.
